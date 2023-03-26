@@ -1,0 +1,12 @@
+Deep learning is a subset of machine learning that involves training neural networks with multiple layers to learn and make predictions on complex data. There are various deep learning techniques that can be used to train neural networks, including:
+
+		Convolutional Neural Networks (CNNs): CNNs are commonly used for image and video processing tasks, where the network learns to extract relevant features from the input data.
+
+		Recurrent Neural Networks (RNNs): RNNs are often used for natural language processing tasks, where the network can remember the previous inputs and learn from them to generate 		predictions.
+
+		Generative Adversarial Networks (GANs): GANs are a type of deep learning technique that involves two neural networks: a generator and a discriminator. The generator learns to 		create new data that is similar to the training data, while the discriminator learns to distinguish between real and fake data.
+
+		Deep Belief Networks (DBNs): DBNs are a type of deep learning technique that involves stacking Restricted Boltzmann Machines (RBMs) to learn hierarchical representations of the 		input data.
+
+		Autoencoders: Autoencoders are neural networks that can be used for unsupervised learning tasks, where the network learns to encode the input data into a lower-dimensional 			representation and then decode it back into the original data.
+
